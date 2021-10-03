@@ -357,7 +357,6 @@ namespace Limited_Use_Items
                 orig(help, what, self, damageInfo);
                 Chat.AddMessage("On Hook");
             }*/
-
         }
         public static void AetheriumSetup()
         {
